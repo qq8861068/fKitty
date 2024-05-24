@@ -1,0 +1,1 @@
+window._CCSettings={platform:"web-mobile",groupList:["default","mx"],collisionMatrix:[[false],[false,true]],hasResourcesBundle:true,hasStartSceneBundle:false,remoteBundles:[],subpackages:[],launchScene:"db://assets/State.fire",orientation:"",jsList:[]};
